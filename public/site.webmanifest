@@ -1,0 +1,37 @@
+{
+  "name": "Gerador de Propostas - Sistema de Gestão Comercial",
+  "short_name": "Propostas",
+  "description": "Sistema completo de geração e gerenciamento de propostas comerciais em tempo real",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "categories": ["business", "productivity"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://slfgrqlavepinggbirfj.supabase.co/storage/v1/object/public/bucket-nanobanan-VEO3/imagens/output.jpeg1761957198282",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Tela inicial do Gerador de Propostas"
+    }
+  ]
+}
+
